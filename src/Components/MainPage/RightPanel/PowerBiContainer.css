@@ -1,0 +1,14 @@
+.Embedded-container {
+  height: 100%;
+  width: 100%;
+}
+
+.Embedded-container iframe {
+  border-width: 0px;
+}
+
+div.embedError {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
